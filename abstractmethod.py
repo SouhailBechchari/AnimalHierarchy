@@ -35,5 +35,5 @@ class horse(Animal):
     
     
     canicorso = dog('red','dd' ,'sali','jj')
-    print(canicorso.)
+    print(canicorso.eat)
     print(canicorso.sound)
